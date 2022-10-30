@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Users\\gabri\\Desktop\\Java Projects\\Java - Teste"
+		},
+		{
+			"path": "..\\..\\..\\..\\Users\\gabri\\Desktop\\JavaScript"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}
